@@ -1,0 +1,17 @@
+/mnt/d/projeto-microsservices/DevFreela.Application/bin/Debug/net8.0/DevFreela.Application.deps.json
+/mnt/d/projeto-microsservices/DevFreela.Application/bin/Debug/net8.0/DevFreela.Application.dll
+/mnt/d/projeto-microsservices/DevFreela.Application/bin/Debug/net8.0/DevFreela.Application.pdb
+/mnt/d/projeto-microsservices/DevFreela.Application/bin/Debug/net8.0/DevFreela.core.dll
+/mnt/d/projeto-microsservices/DevFreela.Application/bin/Debug/net8.0/DevFreela.infrastructure.dll
+/mnt/d/projeto-microsservices/DevFreela.Application/bin/Debug/net8.0/DevFreela.core.pdb
+/mnt/d/projeto-microsservices/DevFreela.Application/bin/Debug/net8.0/DevFreela.infrastructure.pdb
+/mnt/d/projeto-microsservices/DevFreela.Application/obj/Debug/net8.0/DevFreela.Application.csproj.AssemblyReference.cache
+/mnt/d/projeto-microsservices/DevFreela.Application/obj/Debug/net8.0/DevFreela.Application.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/projeto-microsservices/DevFreela.Application/obj/Debug/net8.0/DevFreela.Application.AssemblyInfoInputs.cache
+/mnt/d/projeto-microsservices/DevFreela.Application/obj/Debug/net8.0/DevFreela.Application.AssemblyInfo.cs
+/mnt/d/projeto-microsservices/DevFreela.Application/obj/Debug/net8.0/DevFreela.Application.csproj.CoreCompileInputs.cache
+/mnt/d/projeto-microsservices/DevFreela.Application/obj/Debug/net8.0/DevFreel.D9F19A30.Up2Date
+/mnt/d/projeto-microsservices/DevFreela.Application/obj/Debug/net8.0/DevFreela.Application.dll
+/mnt/d/projeto-microsservices/DevFreela.Application/obj/Debug/net8.0/refint/DevFreela.Application.dll
+/mnt/d/projeto-microsservices/DevFreela.Application/obj/Debug/net8.0/DevFreela.Application.pdb
+/mnt/d/projeto-microsservices/DevFreela.Application/obj/Debug/net8.0/ref/DevFreela.Application.dll
