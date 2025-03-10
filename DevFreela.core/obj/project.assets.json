@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "C:\\Users\\natan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/d/projeto-microsservices/DevFreela.core/DevFreela.core.csproj",
+      "projectUniqueName": "C:\\Users\\natan\\projeto-microsservicosDotnet\\DevFreela.core\\DevFreela.core.csproj",
       "projectName": "DevFreela.core",
-      "projectPath": "/mnt/d/projeto-microsservices/DevFreela.core/DevFreela.core.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/mnt/d/projeto-microsservices/DevFreela.core/obj/",
+      "projectPath": "C:\\Users\\natan\\projeto-microsservicosDotnet\\DevFreela.core\\DevFreela.core.csproj",
+      "packagesPath": "C:\\Users\\natan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\natan\\projeto-microsservicosDotnet\\DevFreela.core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\natan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

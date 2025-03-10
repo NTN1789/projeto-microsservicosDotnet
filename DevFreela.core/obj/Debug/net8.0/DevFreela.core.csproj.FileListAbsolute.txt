@@ -9,3 +9,15 @@
 /mnt/d/projeto-microsservices/DevFreela.core/obj/Debug/net8.0/refint/DevFreela.core.dll
 /mnt/d/projeto-microsservices/DevFreela.core/obj/Debug/net8.0/DevFreela.core.pdb
 /mnt/d/projeto-microsservices/DevFreela.core/obj/Debug/net8.0/ref/DevFreela.core.dll
+C:\Users\natan\projeto-microsservicosDotnet\DevFreela.core\bin\Debug\net8.0\DevFreela.core.deps.json
+C:\Users\natan\projeto-microsservicosDotnet\DevFreela.core\bin\Debug\net8.0\DevFreela.core.dll
+C:\Users\natan\projeto-microsservicosDotnet\DevFreela.core\bin\Debug\net8.0\DevFreela.core.pdb
+C:\Users\natan\projeto-microsservicosDotnet\DevFreela.core\obj\Debug\net8.0\DevFreela.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\projeto-microsservicosDotnet\DevFreela.core\obj\Debug\net8.0\DevFreela.core.AssemblyInfoInputs.cache
+C:\Users\natan\projeto-microsservicosDotnet\DevFreela.core\obj\Debug\net8.0\DevFreela.core.AssemblyInfo.cs
+C:\Users\natan\projeto-microsservicosDotnet\DevFreela.core\obj\Debug\net8.0\DevFreela.core.csproj.CoreCompileInputs.cache
+C:\Users\natan\projeto-microsservicosDotnet\DevFreela.core\obj\Debug\net8.0\DevFreela.core.sourcelink.json
+C:\Users\natan\projeto-microsservicosDotnet\DevFreela.core\obj\Debug\net8.0\DevFreela.core.dll
+C:\Users\natan\projeto-microsservicosDotnet\DevFreela.core\obj\Debug\net8.0\refint\DevFreela.core.dll
+C:\Users\natan\projeto-microsservicosDotnet\DevFreela.core\obj\Debug\net8.0\DevFreela.core.pdb
+C:\Users\natan\projeto-microsservicosDotnet\DevFreela.core\obj\Debug\net8.0\ref\DevFreela.core.dll
